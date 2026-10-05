@@ -1,0 +1,1 @@
+Battery Temp is an ultra-lightweight, high-performance Android utility designed to monitor battery temperature and voltage in real time. Built with clean code principles, it features zero ads, zero trackers, zero unnecessary permissions, and a featherlight footprint under 164 KB.
